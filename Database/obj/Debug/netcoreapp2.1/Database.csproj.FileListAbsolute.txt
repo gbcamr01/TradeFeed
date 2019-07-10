@@ -1,0 +1,17 @@
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\bin\Debug\netcoreapp2.1\Database.runtimeconfig.json
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\bin\Debug\netcoreapp2.1\Database.runtimeconfig.dev.json
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\bin\Debug\netcoreapp2.1\Database.dll
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\bin\Debug\netcoreapp2.1\Database.pdb
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\obj\Debug\netcoreapp2.1\Database.RazorAssemblyInfo.cache
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\obj\Debug\netcoreapp2.1\Database.RazorAssemblyInfo.cs
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\obj\Debug\netcoreapp2.1\Database.RazorTargetAssemblyInfo.cache
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\obj\Debug\netcoreapp2.1\Database.dll
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\obj\Debug\netcoreapp2.1\Database.pdb
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\bin\Debug\netcoreapp2.1\Database.Views.dll
+C:\Users\richa\source\repos\RedBurnTradeFeed\Database\obj\Debug\netcoreapp2.1\Database.csproj.CopyComplete

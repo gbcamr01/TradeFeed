@@ -1,0 +1,17 @@
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\bin\Debug\netcoreapp2.2\RedBurnTradeFeed.deps.json
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\bin\Debug\netcoreapp2.2\RedBurnTradeFeed.runtimeconfig.json
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\bin\Debug\netcoreapp2.2\RedBurnTradeFeed.runtimeconfig.dev.json
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\bin\Debug\netcoreapp2.2\RedBurnTradeFeed.dll
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\bin\Debug\netcoreapp2.2\RedBurnTradeFeed.pdb
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\obj\Debug\netcoreapp2.2\RedBurnTradeFeed.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\obj\Debug\netcoreapp2.2\RedBurnTradeFeed.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\obj\Debug\netcoreapp2.2\RedBurnTradeFeed.RazorAssemblyInfo.cache
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\obj\Debug\netcoreapp2.2\RedBurnTradeFeed.RazorAssemblyInfo.cs
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\obj\Debug\netcoreapp2.2\RedBurnTradeFeed.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\obj\Debug\netcoreapp2.2\RedBurnTradeFeed.AssemblyInfo.cs
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\obj\Debug\netcoreapp2.2\RedBurnTradeFeed.RazorTargetAssemblyInfo.cache
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\obj\Debug\netcoreapp2.2\RedBurnTradeFeed.dll
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\obj\Debug\netcoreapp2.2\RedBurnTradeFeed.pdb
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\bin\Debug\netcoreapp2.2\Database.dll
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\bin\Debug\netcoreapp2.2\Database.pdb
+C:\Users\richa\source\repos\RedBurnTradeFeed\RedBurnTradeFeed\obj\Debug\netcoreapp2.2\RedBurnTradeFeed.csproj.CopyComplete

@@ -1,0 +1,18 @@
+services:
+  database:
+    build:
+      context: C:\Users\richa\source\repos\RedBurnTradeFeed
+      dockerfile: Database/Dockerfile
+    container_name: database
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Passw0rd1
+    hostname: sqlserver
+    image: microsoft/mssql-server-linux:2017-latest
+    ports:
+    - published: 5433
+      target: 1433
+    restart: always
+    volumes:
+    - C:\Users\richa\source\repos\RedBurnTradeFeed\data\mssql:/var/opt/mssql3:rw
+version: '3.4'
